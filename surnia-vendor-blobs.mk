@@ -391,7 +391,6 @@ PRODUCT_COPY_FILES += vendor/motorola/surnia/proprietary/vendor/media/LMspeed_50
 	vendor/motorola/surnia/proprietary/lib/libmmcamera_interface.so:system/lib/libmmcamera_interface.so\
 	vendor/motorola/surnia/proprietary/lib/libmotext_inf.so:system/lib/libmotext_inf.so\
 	vendor/motorola/surnia/proprietary/lib/libmot_sensorlistener.so:system/lib/libmot_sensorlistener.so\
-	vendor/motorola/surnia/proprietary/lib/libqsap_sdk.so:system/lib/libqsap_sdk.so\
 	vendor/motorola/surnia/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so\
 	vendor/motorola/surnia/proprietary/lib/libqomx_core.so:system/lib/libqomx_core.so\
 	vendor/motorola/surnia/proprietary/lib/hw/camera.msm8916.so:system/lib/hw/camera.msm8916.so\
@@ -420,9 +419,7 @@ PRODUCT_COPY_FILES += vendor/motorola/surnia/proprietary/vendor/media/LMspeed_50
 	vendor/motorola/surnia/proprietary/etc/firmware/a420_pfp.fw:system/etc/firmware/a420_pfp.fw\
 	vendor/motorola/surnia/proprietary/etc/firmware/synaptics-boe-s2316b-15031101-175833-surnia.tdat:system/etc/firmware/synaptics-boe-s2316b-15031101-175833-surnia.tdat\
 	vendor/motorola/surnia/proprietary/etc/firmware/Signedrompatch_v24.bin:system/etc/firmware/Signedrompatch_v24.bin\
-	vendor/motorola/surnia/proprietary/etc/firmware/wlan/prima/WCNSS_qcom_cfg.ini:system/etc/firmware/wlan/prima/WCNSS_qcom_cfg.ini\
 	vendor/motorola/surnia/proprietary/etc/firmware/wlan/prima/WCNSS_qcom_wlan_nv.bin:system/etc/firmware/wlan/prima/WCNSS_qcom_wlan_nv.bin\
-	vendor/motorola/surnia/proprietary/etc/firmware/wlan/prima/WCNSS_cfg.dat:system/etc/firmware/wlan/prima/WCNSS_cfg.dat\
 	vendor/motorola/surnia/proprietary/etc/firmware/venus.b00:system/etc/firmware/venus.b00\
 	vendor/motorola/surnia/proprietary/etc/firmware/a225p5_pm4.fw:system/etc/firmware/a225p5_pm4.fw\
 	vendor/motorola/surnia/proprietary/etc/firmware/a330_pfp.fw:system/etc/firmware/a330_pfp.fw\
